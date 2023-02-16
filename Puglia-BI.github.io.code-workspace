@@ -4,5 +4,9 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"yaml.schemas": {
+			"https://gitpod.io/schemas/gitpod-schema.json": "file:///workspace/Puglia-BI.github.io/.gitpod.yml"
+		}
+	}
 }
