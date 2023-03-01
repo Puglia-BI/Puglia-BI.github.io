@@ -1,7 +1,8 @@
+
+
 # Type on Strap 🎨
 [![Open in Visual Studio Code](https://img.shields.io/badge/Open%20in-Visal%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode)](https://open.vscode.dev/Puglia-BI/Puglia-BI.github.io)
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Puglia-BI/Puglia-BI.github.io)
-
 
 
 
